@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin2\\Desktop\\branch1\\branch1.csproj": {}
+    "C:\\Users\\Admin2\\Desktop\\branch1_cloned\\branch1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin2\\Desktop\\branch1\\branch1.csproj": {
+    "C:\\Users\\Admin2\\Desktop\\branch1_cloned\\branch1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin2\\Desktop\\branch1\\branch1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin2\\Desktop\\branch1_cloned\\branch1.csproj",
         "projectName": "branch1",
-        "projectPath": "C:\\Users\\Admin2\\Desktop\\branch1\\branch1.csproj",
+        "projectPath": "C:\\Users\\Admin2\\Desktop\\branch1_cloned\\branch1.csproj",
         "packagesPath": "C:\\Users\\Admin2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin2\\Desktop\\branch1\\obj\\",
+        "outputPath": "C:\\Users\\Admin2\\Desktop\\branch1_cloned\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin2\\AppData\\Roaming\\NuGet\\NuGet.Config",
